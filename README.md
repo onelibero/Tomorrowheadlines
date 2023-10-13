@@ -1,7 +1,7 @@
 # Tomorrowheadlines
 黑马点评学习的项目
 # 第一天
-## 部署项目，了解项目基础信息
+## 搭建项目，了解项目基础信息
 ##### 技术栈
 - Springboot
 - Springcloud
