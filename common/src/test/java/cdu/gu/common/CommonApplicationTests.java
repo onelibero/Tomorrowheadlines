@@ -1,13 +1,13 @@
-package cdu.gu.tomorrowheadlines;
+package cdu.gu.common;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TomorrowheadlinesApplicationTests {
+class CommonApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
