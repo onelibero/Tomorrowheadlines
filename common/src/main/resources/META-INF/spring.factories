@@ -1,2 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  cdu.gu.common.exception.ExceptionCatch
+  cdu.gu.common.exception.ExceptionCatch,\
+  cdu.gu.common.swagger.SwaggerConfiguration,\
+  cdu.gu.common.swagger.Swagger2Configuration
